@@ -1,7 +1,4 @@
 # altoclef
-Plays block game.
-
-Powered by Baritone.
 
 A client side bot that can accomplish any Minecraft task that is relatively simple and can be split into smaller tasks. "Relatively Simple" is a vague term, so check the list of current capabilities to see examples.
 
